@@ -1,0 +1,1 @@
+In this project we will use bootstrap to develop well functioning webpages.
